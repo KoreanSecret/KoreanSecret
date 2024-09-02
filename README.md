@@ -2,30 +2,35 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-## 🛠️ Skills
+## Hi there 👋
 
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+안녕하십니까 웹 개발자가 되기 위해 열정과 성실성을 갖고 노력중인 이승훈 입니다. 
 
-- **Frameworks**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+## 🛠️ Tech Stack 🛠️
 
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
-## 🧑‍💻 About Me
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis-5C2D91?logoColor=white&style=flat)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?logoColor=white&style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logoColor=white&style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-FF9E0F?logoColor=white&style=flat)
 
-Hello! I'm Seunghoon, a passionate developer with a keen interest in **web development** and **software engineering**. I enjoy working on innovative projects, solving complex problems, and constantly learning new technologies. I have experience in building full-stack applications, and I love contributing to open-source projects in my spare time.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
 
-Feel free to explore my repositories and connect with me if you have any questions or just want to chat about tech!
+## 📈 My Baekjoon Stats 📈
 
-## 📫 Contact
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf9392)](https://solved.ac/asdf9392)
 
-- **Email**: seunghoon@example.com
-- **LinkedIn**: [Seunghoon's LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- **GitHub**: [Seunghoon's GitHub](https://github.com/yourusername)
+## 📫 Contact 📫
+
+- **Email**: tmdgns9392@gmail.com
+- **Baekjoon**: [Seunghoon's Baekjoon Profile](https://www.acmicpc.net/user/asdf9392)
+
+

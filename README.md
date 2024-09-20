@@ -141,6 +141,40 @@
 
 <hr>
 
+### 도서 관리 사이드 프로젝트
+2024.06.21 ~ 2024.06.28
+
+사용한 기술 및 개발환경:
+`SpringBoot`, `Eclipse`, `Oracle`, `MVC`
+
+- **GitHub Repository** :https://github.com/KoreanSecret/Libaray
+- **Youtube 시연영상** : (준비중)
+
+  
+- **세부기능**<br>
+    -도서관리 : 추가, 수정, 한권 조회, 전체 조회<br>
+    -사용자 관리: 회원가입, 로그인<br>
+   
+    
+- **프로젝트 아키텍처**
+ 
+
+    
+
+
+  ![image](https://github.com/user-attachments/assets/105a1960-93ec-4b22-843a-b9de83287150)
+
+  ![image](https://github.com/user-attachments/assets/77ea6373-54e2-4d6e-b113-29222351a91e)
+
+
+
+
+
+
+<hr>
+
+<hr>
+
 ### 이메일 서비스 사이드 프로젝트
 2024.04.15 ~ 2024.04.25
 

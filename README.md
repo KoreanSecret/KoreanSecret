@@ -36,8 +36,8 @@
 사용한 기술 및 개발환경:
 `Python`, `Java SpringBoot`, `Jupyter`, `Tensorflow` ,`Mediapipe`, `Yolo`, `LSTM`, `CNN` , `Eclipse` , `JDK17` 
 
-- **GitHub Repository** :(준비중)
-- **Youtube 시연영상** : (준비중)
+- **GitHub Repository** :https://github.com/KoreanSecret/sign-language
+
 
   
 - **세부기능**<br>
@@ -46,7 +46,7 @@
     -LSTM 을 이용한 시간적 패턴 학습<br>
     -SpringBoot 를 이용한 웹 개발<br>
     
-- **프로젝트 아키텍처**
+
   
 
     
@@ -63,7 +63,7 @@
 `Java`, `JavaScript`, `Html`, `Css` `JS`, `My Batis`, `Eclipse`, `JDK 17`
 
 - **GitHub Repository** :(https://github.com/KoreanSecret/Web-site)
-- **Youtube 시연영상** : (준비중)
+
 
   
 - **세부기능**<br>
@@ -71,7 +71,7 @@
     -MVC 패턴 사용한 백엔드 로직,비즈니스 로직, 프론트엔드 연결<br>
    
     
-- **프로젝트 아키텍처**
+
 
 
 
@@ -92,7 +92,7 @@
 `Java`, `JavaScript`, `Html`, `Css` `JS`, `My Batis`, `Eclipse`, `JDK 17`
 
 - **GitHub Repository** :(https://github.com/KoreanSecret/Web-site)
-- **Youtube 시연영상** : (준비중)
+
 
   
 - **세부기능**<br>
@@ -100,12 +100,7 @@
     -MVC 패턴 사용한 백엔드 로직,비즈니스 로직, 프론트엔드 연결<br>
    
     
-- **프로젝트 아키텍처**
-   - NOT YET
-    
 
-
-  (준비중)
 
   
 <hr>
@@ -117,7 +112,6 @@
 `NodeJS`, `React`, `Python`, `RestFulAPI`
 
 - **GitHub Repository** :[([https://github.com/KoreanSecret/Web-site](https://github.com/KoreanSecret/emailproject))](https://github.com/KoreanSecret/react_basic)
-- **Youtube 시연영상** : (준비중)
 
   
 - **세부기능**<br>
@@ -125,7 +119,7 @@
     -공공데이터포털,한국전력공사 전기차 충전소 데이터, 카카오맵 지도 API 활용<br>
    
     
-- **프로젝트 아키텍처**
+
  
 
     
@@ -150,7 +144,7 @@
 `SpringBoot`, `Eclipse`, `Oracle`, `MVC`
 
 - **GitHub Repository** :https://github.com/KoreanSecret/Libaray
-- **Youtube 시연영상** : (준비중)
+
 
   
 - **세부기능**<br>
@@ -158,7 +152,7 @@
     -사용자 관리: 회원가입, 로그인<br>
    
     
-- **프로젝트 아키텍처**
+
  
 
     
@@ -185,7 +179,7 @@
 `Java`, `Oracle`, `Eclipse`, `JDK 17`
 
 - **GitHub Repository** :([https://github.com/KoreanSecret/Web-site](https://github.com/KoreanSecret/emailproject))
-- **Youtube 시연영상** : (준비중)
+
 - ** : 사용자 간의 이메일 송수신 기능 제공하는 프로젝트
   
 - **세부기능**<br>
@@ -193,8 +187,7 @@
     -Java Scanner 클래스를 이용한 콘솔 입력<br>
    
     
-- **프로젝트 아키텍처**
- 
+
 
     
 

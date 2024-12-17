@@ -30,7 +30,7 @@
 
 ## 프 로 젝 트 이 력
 
-### 수어 탐지 웹 사이드 프로젝트
+### Python 과 인공지능 이용한 수어 탐지 웹 개발
 2024.07.15 ~ 2024.07.26 
 
 사용한 기술 및 개발환경:
@@ -56,7 +56,7 @@
 
 <hr>
 
-### 만남 웹 사이트 프로젝트
+### JAVA Servlet 을 이용한 미팅 웹 개발
 2024.06.18 ~ 2024.07.04
 
 사용한 기술 및 개발환경:
@@ -111,7 +111,7 @@
 사용한 기술 및 개발환경:
 `NodeJS`, `React`, `Python`, `RestFulAPI`
 
-- **GitHub Repository** :[([https://github.com/KoreanSecret/Web-site](https://github.com/KoreanSecret/emailproject))](https://github.com/KoreanSecret/react_basic)
+- **GitHub Repository** :(https://github.com/KoreanSecret/react_basic)
 
   
 - **세부기능**<br>
